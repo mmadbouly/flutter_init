@@ -7,3 +7,4 @@
 -- password will be the personal access token
 
 # flutter_init
+following the [official page](https://docs.flutter.dev/get-started/install) for setup, test drive and tutorials
