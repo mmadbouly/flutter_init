@@ -11,6 +11,7 @@
 -- changes to Readme.md file on the web interface of the repo (on github)
 -- changes to local repo by creating  a new flutter project-app
 - The How To
+
 -- `git config pull.rebase false` # merge (the default strategy)
 -- `git pull`
 -- `git push`
@@ -21,8 +22,11 @@
 following the [official page](https://docs.flutter.dev/get-started/install) for setup, test drive and tutorials
 ### issues faced when running and debugging from VSC
 - install cmake
+
 -- from ubuntu software center
 - install ninja 
+
 -- `sudo apt-get install ninja-build`
 - install clang
+
 -- `sudo apt install clang`
